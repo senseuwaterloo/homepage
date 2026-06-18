@@ -74,6 +74,14 @@
   {
     "year": "2026",
     "type": "conference",
+    "venue": "ASE",
+    "topic": "performance testing",
+    "content": "Zongxiong Chen, Derui Zhu, Jinfu Chen, Kundi Yao, Alexander Pretschner, <strong>Weiyi Shang</strong>, Manfred Hauswirth, Sonja Schimmler. Stop When It Matters: Detectability-Guided Microbenchmarking for Performance Regression Testing. <em>ASE 2026.</em>",
+    "pdf": ""
+  },
+  {
+    "year": "2026",
+    "type": "conference",
     "venue": "EASE",
     "topic": "logging",
     "content": "Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, Kundi Yao, Yiming Tang, <strong>Weiyi Shang</strong> and Daqing Hou. Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs. <em>EASE 2026.</em>",
