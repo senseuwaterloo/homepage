@@ -160,6 +160,7 @@
 		if (!listEl || !raw) return;
 
 		const esc = (s) => String(s).replace(/[&<>]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[ch]));
+		const pdfHref = (pdf) => /^https?:\/\//i.test(pdf) ? pdf : `/pubs/${encodeURI(pdf)}`;
 
 		// Entries already carry year / type / venue / topic / formatted content / pdf.
 		const entries = Array.isArray(raw) ? raw : [];
@@ -174,7 +175,7 @@
 					const rows = items
 						.map(
 							(it) =>
-								`<div class="pub-entry" data-year="${it.year}" data-type="${it.type}" data-venue="${esc(it.venue)}" data-topic="${esc(it.topic || "")}"><p>${it.content}${it.pdf ? ` <span class="pub-links"><a href="/pubs/${encodeURI(it.pdf)}" target="_blank" rel="noopener">PDF</a></span>` : ""}</p></div>`
+								`<div class="pub-entry" data-year="${it.year}" data-type="${it.type}" data-venue="${esc(it.venue)}" data-topic="${esc(it.topic || "")}"><p>${it.content}${it.pdf ? ` <span class="pub-links"><a href="${pdfHref(it.pdf)}" target="_blank" rel="noopener">PDF</a></span>` : ""}</p></div>`
 						)
 						.join("");
 					return `<div class="pub-group"><h4>${label}</h4>${rows}</div>`;
