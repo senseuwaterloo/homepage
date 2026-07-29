@@ -1,5 +1,29 @@
 [
   {
+    "year": "2027",
+    "type": "journal",
+    "venue": "Expert Systems with Applications",
+    "topic": "other",
+    "content": "Shaoheng Xie, Xuan Zhang, Kunpeng Du, Jishu Wang, Xiaopeng Li, Junda Li, <strong>Weiyi Shang</strong>, Zhi Jin. Diffusion Sequential Recommendation Model Based on Item Co-occurrence Anchoring and User Semantic Collaboration. <em>Expert Systems with Applications.</em>",
+    "pdf": ""
+  },
+  {
+    "year": "2026",
+    "type": "journal",
+    "venue": "TOSEM",
+    "topic": "performance",
+    "content": "Yuanjie Xia, Kundi Yao, Lizhi Liao, Daniele Di Pompeo, Catia Trubiani, Boris Zibitsker, <strong>Weiyi Shang</strong>. HQP: Hybrid Queueing and Configuration-Aware Performance Modeling for Microservice Systems. <em>ACM Transactions on Software Engineering and Methodology.</em>",
+    "pdf": ""
+  },
+  {
+    "year": "2026",
+    "type": "journal",
+    "venue": "IEEE IoT Journal",
+    "topic": "logging",
+    "content": "Shenglin Zhang, Ting Xu, Zeyu Che, Yongqian Sun, Wenwei Gu, Yicheng Sui, Sibo Xia, <strong>Weiyi Shang</strong>, Kundi Yao, Jiayi Ma, Dan Pei. FSLog: A Federated Split Learning Framework for Privacy-Protected and Computation-Efficient Syslog Fault Diagnosis in IoT Networks. <em>IEEE Internet of Things Journal.</em>",
+    "pdf": ""
+  },
+  {
     "year": "2026",
     "type": "journal",
     "venue": "TOSEM",
@@ -78,6 +102,14 @@
     "topic": "logging",
     "content": "Xiaohui Wang, Youshuai Tan, Zishuo Ding, Jinfu Chen, Jifeng Xuan, <strong>Weiyi Shang</strong>. Enhancing Log Sentiments: An Exploratory Study of Sentiments and Emotions with Software Logs. <em>ACM Transactions on Software Engineering and Methodology.</em>",
     "pdf": "TOSEM_2025_XIAOHUI.pdf"
+  },
+  {
+    "year": "2026",
+    "type": "conference",
+    "venue": "AIware",
+    "topic": "ai-llm",
+    "content": "Xiaoyu Cheng, Kundi Yao, Pengyu Nie and <strong>Weiyi Shang</strong>. When AI Coding Assistants Leak Training Data: A Study of LLM Memorization in Code Generation. <em>AIware 2026.</em>",
+    "pdf": ""
   },
   {
     "year": "2026",
