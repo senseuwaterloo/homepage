@@ -10,6 +10,14 @@
   {
     "year": "2026",
     "type": "journal",
+    "venue": "Science of Computer Programming",
+    "topic": "ai-llm testing",
+    "content": "Zhiyuan Chen, Vanessa Nava-Camal, Ahmad Suleiman, Yiming Tang, Daqing Hou, <strong>Weiyi Shang</strong>. An Empirical Study on the Capability of LLMs in Decomposing Bug Reports. <em>Science of Computer Programming.</em>",
+    "pdf": ""
+  },
+  {
+    "year": "2026",
+    "type": "journal",
     "venue": "TOSEM",
     "topic": "performance",
     "content": "Yuanjie Xia, Kundi Yao, Lizhi Liao, Daniele Di Pompeo, Catia Trubiani, Boris Zibitsker, <strong>Weiyi Shang</strong>. HQP: Hybrid Queueing and Configuration-Aware Performance Modeling for Microservice Systems. <em>ACM Transactions on Software Engineering and Methodology.</em>",
