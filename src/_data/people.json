@@ -69,7 +69,7 @@
       },
       {
         "name": "Minsi Lu",
-        "role": "Ph.D. Student",
+        "role": "M.Sc. Student",
         "topic": "AI Software Performance",
         "initials": "ML"
       },
@@ -132,7 +132,7 @@
         "links": [{ "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=21SY2MIAAAAJ&hl=en" }]
       },
       {
-        "name": "Zhongxiong Chen",
+        "name": "Zongxiong Chen",
         "role": "Ph.D. Student",
         "affiliation": "Fraunhofer FOKUS",
         "initials": "ZC"
@@ -147,7 +147,7 @@
       {
         "name": "Youshuai Tan",
         "role": "Ph.D. Student",
-        "affiliation": "The Hong Kong University of Science and Technology (Guangzhou)",
+        "affiliation": "Macau University of Science and Technology",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=ooOeZ8IAAAAJ&citpid=1",
         "links": [{ "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=ooOeZ8IAAAAJ&hl=zh-CN" }]
       },
@@ -272,7 +272,7 @@
   {
     "group": "Alumni — M.Sc. Students",
     "members": [
-      { "name": "Yixi Zhao", "role": "M.Sc. (2022–2025)", "affiliation": "Developer at Scotiabank", "initials": "YZ" },
+      { "name": "Yixi Zhao", "role": "M.Sc. (2022–2025)", "affiliation": "RBC Capital Markets", "initials": "YZ" },
       { "name": "Xiaoyu Cheng", "role": "M.Sc. (2022–2025)", "initials": "XC" },
       { "name": "An Chen", "role": "M.Sc. (2021–2025)", "initials": "AC" },
       { "name": "Mostafa Jangali", "role": "M.Sc. (2019–2024)", "affiliation": "Developer at Arctrade", "initials": "MJ", "links": [{ "label": "Homepage", "href": "https://github.com/mjangali94" }, { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=vYllUD4AAAAJ&hl=en" }] },
@@ -280,15 +280,15 @@
       { "name": "Andy Ta", "role": "M.Sc. (2021–2023)", "affiliation": "Developer at Hopper", "initials": "AT" },
       { "name": "Haonan Zhang", "role": "M.Sc. (2019–2021)", "affiliation": "Continued to Ph.D. in SENSE Lab", "photo": "haonan_zhang.jpg" },
       { "name": "Yuanjie Xia", "role": "M.Sc. (2019–2021)", "affiliation": "Continued to Ph.D. in SENSE Lab", "photo": "yuanjie_xia.jpg" },
-      { "name": "Nian Liu", "role": "M.Sc. (2019–2021)", "affiliation": "Developer at Zilliz", "initials": "NL" },
-      { "name": "Sophia Quach", "role": "M.Sc. (2019–2021)", "affiliation": "Developer at Wiley Edge", "initials": "SQ" },
+      { "name": "Nian Liu", "role": "M.Sc. (2019–2021)", "affiliation": "Frontier Intelligence Capital", "initials": "NL" },
+      { "name": "Sophia Quach", "role": "M.Sc. (2019–2021)", "affiliation": "Morgan Stanley", "initials": "SQ" },
       { "name": "Hetong Dai", "role": "M.Sc. (2018–2020)", "affiliation": "Continued to Ph.D. in SENSE Lab", "photo": "hetong_dai.jpg" },
       { "name": "Ling Chen", "role": "M.Sc. (2019–2020)", "affiliation": "Developer at Ericsson", "initials": "LC" },
       { "name": "Yi Zeng", "role": "M.Sc. (2017–2019)", "affiliation": "Developer at Morgan Stanley", "initials": "YZ" },
       { "name": "Zhenhao Li", "role": "M.Sc. (2017–2019)", "affiliation": "Continued to Ph.D. in SENSE Lab", "photo": "zhenhao_li.jpg" },
       { "name": "Zishuo Ding", "role": "M.Sc. (2018–2019)", "affiliation": "Continued to Ph.D. in SENSE Lab", "photo": "zishuo_ding.jpg" },
-      { "name": "Kundi Yao", "role": "M.Sc. (2016–2018)", "affiliation": "Continued to Ph.D. in SENSE Lab", "photo": "kundi_yao.jpg" },
-      { "name": "Armin Najafi", "role": "M.Sc. (2016–2018)", "affiliation": "Developer at Amazon Web Services", "initials": "AN" },
+      { "name": "Kundi Yao", "role": "M.Sc. (2016–2018)", "affiliation": "Continued to Ph.D. at Queen’s University", "photo": "kundi_yao.jpg" },
+      { "name": "Armin Najafi", "role": "M.Sc. (2016–2018)", "affiliation": "Founding Engineer at Stealth AI Startup", "initials": "AN" },
       { "name": "Guilherme Padua", "role": "M.Sc. (2016–2018)", "affiliation": "Developer at Apple", "initials": "GP" },
       { "name": "Mehran Hassani", "role": "M.Sc. (2016–2018)", "affiliation": "Senior Developer at Kabam", "initials": "MH" },
       { "name": "Muhammad Moiz Arif", "role": "M.Sc. (2015–2017)", "affiliation": "Associate Director at Moody's Analytics", "initials": "MA" }
@@ -299,10 +299,10 @@
     "members": [
       { "name": "Felix Li", "role": "B.Sc. (2024)", "affiliation": "University of Waterloo", "initials": "FL" },
       { "name": "Qianyun Shen", "role": "B.Sc. (2023)", "affiliation": "University of Montreal", "initials": "QS" },
-      { "name": "Jianxin You", "role": "B.Sc. (2023)", "affiliation": "University of Montreal", "initials": "JY" },
-      { "name": "Sneha Sunil", "role": "B.Sc. (2022)", "affiliation": "Developer at Microsoft", "initials": "SS" },
+      { "name": "Jianxin You", "role": "B.Sc. (2023)", "affiliation": "Ericsson", "initials": "JY" },
+      { "name": "Sneha Sunil", "role": "B.Sc. (2022)", "affiliation": "M.Sc. student at University of Melbourne", "initials": "SS" },
       { "name": "Yang Li", "role": "B.Sc. (2021)", "affiliation": "Ph.D. student at National University of Singapore (NUS)", "initials": "YL" },
-      { "name": "Sophia Quach", "role": "B.Sc. (2018)", "affiliation": "Developer at Wiley Edge", "initials": "SQ" }
+      { "name": "Sophia Quach", "role": "B.Sc. (2018)", "affiliation": "Morgan Stanley", "initials": "SQ" }
     ]
   }
 ]
