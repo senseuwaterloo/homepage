@@ -122,6 +122,14 @@
   {
     "year": "2026",
     "type": "conference",
+    "venue": "EMNLP",
+    "topic": "ai-llm",
+    "content": "Yujia Luo, Haonan Zhang, Jiasi Shen, Zishuo Ding, <strong>Weiyi Shang</strong>. TeleGen: Improving LLM-Based Web Application Generation via Runtime Telemetry. <em>Findings of EMNLP 2026.</em>",
+    "pdf": ""
+  },
+  {
+    "year": "2026",
+    "type": "conference",
     "venue": "ASE",
     "topic": "performance testing",
     "content": "Zongxiong Chen, Derui Zhu, Jinfu Chen, Kundi Yao, Alexander Pretschner, <strong>Weiyi Shang</strong>, Manfred Hauswirth, Sonja Schimmler. Stop When It Matters: Detectability-Guided Microbenchmarking for Performance Regression Testing. <em>ASE 2026.</em>",
