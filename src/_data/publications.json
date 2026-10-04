@@ -125,7 +125,7 @@
     "venue": "EMNLP",
     "topic": "ai-llm",
     "content": "Yujia Luo, Haonan Zhang, Jiasi Shen, Zishuo Ding, <strong>Weiyi Shang</strong>. TeleGen: Improving LLM-Based Web Application Generation via Runtime Telemetry. <em>Findings of EMNLP 2026.</em>",
-    "pdf": ""
+    "pdf": "pubs/EMNLP2026_TeleGen.pdf"
   },
   {
     "year": "2026",
