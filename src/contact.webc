@@ -6,7 +6,7 @@ description: "Contact information for Prof. Weiyi Shang and the SENSE Lab at the
 <section id="contact">
 	<h2>Contact</h2>
 	<div class="contact-info">
-		<site-contact-card heading="Email">wshang.uwaterloo@gmail.com</site-contact-card>
+		<site-contact-card heading="Email">wshang [dot] uwaterloo [AT] gmail [dot] com</site-contact-card>
 		<site-contact-card heading="Office">Office: DC 2526<br>Lab: DC 2634/2638<br>University of Waterloo</site-contact-card>
 		<site-contact-card heading="Address">200 University Avenue West<br>Waterloo, ON, Canada N2L 3G1</site-contact-card>
 	</div>
