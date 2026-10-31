@@ -18,6 +18,14 @@
   {
     "year": "2026",
     "type": "journal",
+    "venue": "SIGSOFT SEN",
+    "topic": "ai-llm",
+    "content": "Haoyu Wang, <strong>Weiyi Shang</strong>, Xiao Cheng and Yanjie Zhao. Summary of the 2nd International Workshop on Large Language Model Supply Chain Analysis (LLMSC 2026) co-located with FSE 2026. <em>ACM SIGSOFT Software Engineering Notes.</em>",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3844691.3844702"
+  },
+  {
+    "year": "2026",
+    "type": "journal",
     "venue": "TOSEM",
     "topic": "performance",
     "content": "Yuanjie Xia, Kundi Yao, Lizhi Liao, Daniele Di Pompeo, Catia Trubiani, Boris Zibitsker, <strong>Weiyi Shang</strong>. HQP: Hybrid Queueing and Configuration-Aware Performance Modeling for Microservice Systems. <em>ACM Transactions on Software Engineering and Methodology.</em>",
